@@ -12,7 +12,7 @@ fun main(args:Array<String>){
 
     }finally {
 
-        print(" Done! Bye!   ")
+        print(" Done! Bye!     ")
 
     }
 
